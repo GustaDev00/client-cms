@@ -1,0 +1,20 @@
+{
+  "kind": "singleType",
+  "collectionName": "pantas_paladars",
+  "info": {
+    "singularName": "pantas-paladar",
+    "pluralName": "pantas-paladars",
+    "displayName": "Pantas Paladar"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Home": {
+      "type": "component",
+      "component": "shared.page",
+      "repeatable": true
+    }
+  }
+}
